@@ -1,8 +1,11 @@
 @charset"utf-8";
+html, body {
+  background: #ffffff;
+}
+
 body {
   width: auto;
   padding: 5px;
-  background: #ffffff !important;
 }
 
 label {
